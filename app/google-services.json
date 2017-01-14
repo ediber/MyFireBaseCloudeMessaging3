@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895788711549",
+    "firebase_url": "https://cloudemessaging3.firebaseio.com",
+    "project_id": "cloudemessaging3",
+    "storage_bucket": "cloudemessaging3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895788711549:android:6d0ae1a01dd3ab98",
+        "android_client_info": {
+          "package_name": "edi.com.myfirebasecloudemessaging3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895788711549-ug43rq7fk52rjk79402u7mehujak6868.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edi.com.myfirebasecloudemessaging3",
+            "certificate_hash": "33A1A3A9CB469D6E04358D00644EAD57F957A734"
+          }
+        },
+        {
+          "client_id": "895788711549-66ocjl4022kr95c35tit9p9r17nbi6rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBwzwIdhu-1LQsKR302n3NTAw5DW_qzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895788711549-66ocjl4022kr95c35tit9p9r17nbi6rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
